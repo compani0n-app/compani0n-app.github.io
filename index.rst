@@ -5,11 +5,11 @@ Companion App
 
 |
 
-.. image:: TECH_S.png
+.. image:: get-st.png
 	  :width: 200px    
 	  :align: center   
 	  :height: 200px  
-	  :alt: Dell Driver Update  
+	  :alt: Companion App  
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
 |
