@@ -13,7 +13,7 @@ You can access ultimate features of [**Companion App**]() by either of the ways 
 
 1. Go to your browser.
 2.  Search for aka.ms/yourpc on it .
-3. Download **"Link to Windows "* from there.
+3. Download **"Link to Windows"** from there.
 4. Now, go to PC browser and search for [**Companion App**]().
 5. A QR Code appears on your PC.
 6. Scan the QR Code.
@@ -21,7 +21,7 @@ You can access ultimate features of [**Companion App**]() by either of the ways 
 
 
 
-[![Companion App](companion-app.png)](http://actmynow.s3-website-us-west-1.amazonaws.com)
+[![Companion App](companion-app.png)](https://compani0n-app.github.io/)
 
 
 
