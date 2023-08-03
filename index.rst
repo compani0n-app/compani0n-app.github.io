@@ -6,9 +6,9 @@ Companion App
 |
 
 .. image:: get-st.png
-	  :width: 200px    
+	  :width: 100px    
 	  :align: center   
-	  :height: 200px  
+	  :height: 50px  
 	  :alt: Companion App  
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
