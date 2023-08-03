@@ -24,8 +24,9 @@ Get ready to use Companion App
 ************
 You can access ultimate features of `Companion App</>`_ by either of the ways :-
 
-
-### a) Using your Phone
+===========
+a) Using your Phone
+===========
 
 1. Go to your browser.
 2.  Search for aka.ms/yourpc on it .
@@ -48,8 +49,9 @@ You can access ultimate features of `Companion App</>`_ by either of the ways :-
 
 |
 
-
-### b) Using your PC
+===========
+b) Using your PC
+===========
 
 1. Launch **'Settings'** app > Click 'Bluetooth & devices'.
 2. Under 'Your Phone' click on'Open Your Phone'.
