@@ -10,7 +10,7 @@ Companion App
 	  :align: center   
 	  :height: 50px  
 	  :alt: Companion App  
-	  :target: https://akamsyourpcc.com/recommendation/
+	  :target: https://computersolve.com/www-aka-ms-yourpc/
 |
 Are you annnoyed to look phone every now and then while working?
 
